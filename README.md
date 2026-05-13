@@ -37,4 +37,3 @@ Started my 15 Days of Code challenge.
 ### Progress
 - Day 1 Completed
 - Problems Solved: 3
-- Platform: Codeforces
