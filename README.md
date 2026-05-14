@@ -16,8 +16,6 @@ Started my 15 Days of Code challenge.
 - Username: siddhant_gawande
 - Profile: https://codeforces.com/profile/siddhant_gawande
 
----
-
 ### Problems Solved
 
 1. B. Robot Program  
@@ -34,6 +32,29 @@ Started my 15 Days of Code challenge.
 
 ---
 
+## Day 2 — 14 May 2026
+
+### Problems Solved
+
+1. A. Strange Partition  
+   Problem: https://codeforces.com/contest/1471/problem/A  
+   Solution: https://codeforces.com/contest/1471/submission/374493772
+
+2. C. Table Tennis Game 2  
+   Problem: https://codeforces.com/contest/765/problem/C  
+   Solution: https://codeforces.com/contest/765/submission/374528938
+
+3. B. Omkar and Last Class of Math  
+   Problem: https://codeforces.com/contest/1372/problem/B  
+   Solution: https://codeforces.com/contest/1372/submission/374482847
+
+---
+
 ### Progress
 - Day 1 Completed
+<<<<<<< HEAD
 - Problems Solved: 3
+=======
+- Day 2 Completed
+- Total Problems Solved: 6
+- Platform: Codeforces
