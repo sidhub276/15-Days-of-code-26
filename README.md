@@ -99,3 +99,25 @@ This repository is for the 15 Days of Code Challenge organized by Vision CSE.
    Solution: [Link](https://codeforces.com/contest/2216/submission/374903510)
 
 ---
+
+### Day 6 — 18 May 2026
+**Platform:** Codeforces
+
+#### Problems Solved
+
+1. [C. K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/1352/submission/375044969)
+
+2. [B. Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/2224/submission/375050739)
+
+3. [A. Optimal Purchase](http://codeforces.com/contest/2230/problem/A)  
+   Solution: [Link](https://codeforces.com/contest/2230/submission/375086962)
+
+4. [B. Digit String](https://codeforces.com/contest/2230/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/2230/submission/375133859)
+
+5. [C. Arrange the Numbers in a Circle](https://codeforces.com/contest/2230/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/2230/submission/375145488)
+
+---
