@@ -121,3 +121,19 @@ This repository is for the 15 Days of Code Challenge organized by Vision CSE.
    Solution: [Link](https://codeforces.com/contest/2230/submission/375145488)
 
 ---
+
+### Day 7 — 19 May 2026
+**Platform:** Codeforces
+
+#### Problems Solved
+
+1. [D. Harder Problem](https://codeforces.com/contest/2044/problem/D)  
+   Solution: [Link](https://codeforces.com/contest/2044/submission/375272826)
+
+2. [C. New Game](https://codeforces.com/contest/2025/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/2025/submission/375261650)
+
+3. [A. Concatenation of Arrays](https://codeforces.com/contest/2023/problem/A)  
+   Solution: [Link](https://codeforces.com/contest/2023/submission/375241561)
+
+---
