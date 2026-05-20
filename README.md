@@ -137,3 +137,25 @@ This repository is for the 15 Days of Code Challenge organized by Vision CSE.
    Solution: [Link](https://codeforces.com/contest/2023/submission/375241561)
 
 ---
+
+### Day 8 — 20 May 2026
+**Platform:** CodeChef
+
+#### Contest
+CodeChef Starters 239 Division 3
+
+#### Problems Solved
+
+1. [Easy Speaking](https://www.codechef.com/problems/EZSPK)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1279907217)
+
+2. [Beginnings and Endings](https://www.codechef.com/problems/EQBEND)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1279922348)
+
+3. [Magic Mirror](https://www.codechef.com/problems/MIRRIM)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1279937946)
+
+4. [Planting Roses](https://www.codechef.com/problems/ROSEPL)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1279975588)
+
+---
