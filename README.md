@@ -159,3 +159,25 @@ CodeChef Starters 239 Division 3
    Solution: [Link](https://www.codechef.com/viewsolution/1279975588)
 
 ---
+
+### Day 9 — 21 May 2026
+**Platform:** Codeforces
+
+#### Contest
+Codeforces Round 1099 (Div. 2)
+
+#### Problems Solved
+
+1. [A. Construct an Array](https://codeforces.com/contest/2231/problem/A)  
+   Solution: [Link](https://codeforces.com/contest/2231/submission/375483932)
+
+#### Upsolved
+
+1. [C. Chipmunk Theo and Equality](https://codeforces.com/contest/2231/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/2231/submission/375591112)
+
+#### Learning
+- Started studying Bitmasks  
+- Reference Blog: [Bitmask Guide](https://codeforces.com/blog/entry/153600)
+
+---
