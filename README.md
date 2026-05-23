@@ -181,3 +181,36 @@ Codeforces Round 1099 (Div. 2)
 - Reference Blog: [Bitmask Guide](https://codeforces.com/blog/entry/153600)
 
 ---
+
+### Day 10 — 23 May 2026
+**Platform:** Codeforces
+
+#### Problems Solved
+
+1. [B. Cat Cycle](https://codeforces.com/contest/1487/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/1487/submission/375739633)
+
+2. [B. Flip the Bits](https://codeforces.com/contest/1504/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/1504/submission/375721864)
+
+3. [C. Removing Smallest Multiples](https://codeforces.com/contest/1734/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/1734/submission/375710437)
+
+#### Contest
+Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)
+
+#### Contest Problems Solved
+
+1. [A. Slimes on a Line](https://codeforces.com/contest/2229/problem/A)  
+   Solution: [Link](https://codeforces.com/contest/2229/submission/375776342)
+
+2. [B. Absolute Cinema](https://codeforces.com/contest/2229/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/2229/submission/375784771)
+
+3. [C1. We Be Flipping (Easy Version)](https://codeforces.com/contest/2229/problem/C1)  
+   Solution: [Link](https://codeforces.com/contest/2229/submission/375810454)
+
+4. [C2. We Be Flipping (Hard Version)](https://codeforces.com/contest/2229/problem/C2)  
+   Solution: [Link](https://codeforces.com/contest/2229/submission/375835565)
+
+---
