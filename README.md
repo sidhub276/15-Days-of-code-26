@@ -214,3 +214,22 @@ Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)
    Solution: [Link](https://codeforces.com/contest/2229/submission/375835565)
 
 ---
+
+### Day 11 — 25 May 2026
+**Platform:** Codeforces
+
+#### Problems Solved
+
+1. [E. Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E)  
+   Solution: [Link](https://codeforces.com/contest/1931/submission/376028081)
+
+2. [B. Shuffle](https://codeforces.com/contest/1366/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/1366/submission/376063616)
+
+3. [D. Buying Shovels](https://codeforces.com/contest/1360/problem/D)  
+   Solution: [Link](https://codeforces.com/contest/1360/submission/376059976)
+
+4. [A. Strange Birthday Party](https://codeforces.com/contest/1470/problem/A)  
+   Solution: [Link](https://codeforces.com/contest/1470/submission/376058187)
+
+---
