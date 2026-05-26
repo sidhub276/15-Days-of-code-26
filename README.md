@@ -233,3 +233,22 @@ Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)
    Solution: [Link](https://codeforces.com/contest/1470/submission/376058187)
 
 ---
+
+### Day 12 — 26 May 2026
+**Platform:** Codeforces
+
+#### Problems Solved
+
+1. [F. Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F)  
+   Solution: [Link](https://codeforces.com/contest/1703/submission/376218579)
+
+2. [C. Good Array](https://codeforces.com/contest/1077/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/1077/submission/376216202)
+
+3. [B. Average Sleep Time](https://codeforces.com/contest/808/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/808/submission/376132377)
+
+4. [M. Minimum LCM](https://codeforces.com/contest/1765/problem/M)  
+   Solution: [Link](https://codeforces.com/contest/1765/submission/376168714)
+
+---
