@@ -252,3 +252,36 @@ Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)
    Solution: [Link](https://codeforces.com/contest/1765/submission/376168714)
 
 ---
+
+### Day 13 — 27 May 2026
+**Platforms:** Codeforces & CodeChef
+
+#### Codeforces Practice
+
+1. [B. WOW Factor](https://codeforces.com/contest/1178/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/1178/submission/376264418)
+
+2. [C. Simple Strings](https://codeforces.com/contest/665/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/665/submission/376268180)
+
+3. [B. Most socially-distanced subsequence](https://codeforces.com/contest/1364/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/1364/submission/376269800)
+
+#### Contest
+CodeChef Starters 240 Division 3
+
+#### Problems Solved
+
+1. [Counting Characters](https://www.codechef.com/problems/COUNTAB)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1282410284)
+
+2. [Comfortable Seating](https://www.codechef.com/problems/CYCYC)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1282415884)
+
+3. [Binary Smile](https://www.codechef.com/problems/RVBS)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1282487875)
+
+4. [Partition](https://www.codechef.com/problems/FREQP)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1282500643)
+
+---
