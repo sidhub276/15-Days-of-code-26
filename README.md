@@ -285,3 +285,26 @@ CodeChef Starters 240 Division 3
    Solution: [Link](https://www.codechef.com/viewsolution/1282500643)
 
 ---
+
+### Day 14 — 28 May 2026
+**Platform:** Codeforces
+
+#### Problems Solved
+
+1. [E. G-C-D, Unlucky!](https://codeforces.com/contest/2126/problem/E)  
+   Solution: [Link](https://codeforces.com/contest/2126/submission/376361023)
+
+2. [C. Maximum Median](https://codeforces.com/contest/1201/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/1201/submission/376387646)
+
+3. [B. Array Recoloring](https://codeforces.com/contest/2075/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/2075/submission/376441039)
+
+#### Learning
+- Learnt different maths techniques like:
+  - Counting Divisors
+  - Sieve of Eratosthenes
+
+- Reference: [Maths Techniques Video](https://www.youtube.com/watch?v=tDM6lT-qjys)
+
+---
