@@ -308,3 +308,26 @@ CodeChef Starters 240 Division 3
 - Reference: [Maths Techniques Video](https://www.youtube.com/watch?v=tDM6lT-qjys)
 
 ---
+
+### Day 15 — 29 May 2026
+**Platform:** Codeforces
+
+#### Problems Solved
+
+1. [A. Constructive Problem](https://codeforces.com/contest/1819/problem/A)  
+   Solution: [Link](https://codeforces.com/contest/1819/submission/376548362)
+
+2. [C. Strongly Composite](https://codeforces.com/contest/1823/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/1823/submission/376529117)
+
+3. [C. Dreaming of Freedom](https://codeforces.com/contest/1826/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/1826/submission/376509971)
+
+4. [C. All-in-one Gun](https://codeforces.com/contest/2192/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/2192/submission/376451171)
+
+---
+
+# Phase 1 Completed Successfully 🎉
+
+---
