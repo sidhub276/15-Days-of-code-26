@@ -330,4 +330,26 @@ CodeChef Starters 240 Division 3
 
 # Phase 1 Completed Successfully 🎉
 
+### Day 16 — 16 June 2026
+
+#### Learning
+
+- Studied Breadth First Search (BFS)
+- Implemented BFS algorithm and understood its basic applications.
+
+#### Reference
+
+- [Breadth First Search (CP-Algorithms)](https://cp-algorithms.com/graph/breadth-first-search.html)
+
+#### Problems Solved
+
+1. [B. Alternating String](https://codeforces.com/contest/2225/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/2225/submission/379072810)
+
+2. [B1. The Strict Teacher (Easy Version)](https://codeforces.com/contest/2005/problem/B1)  
+   Solution: [Link](https://codeforces.com/contest/2005/submission/379077524)
+
+3. [B2. The Strict Teacher (Hard Version)](https://codeforces.com/contest/2005/problem/B2)  
+   Solution: [Link](https://codeforces.com/contest/2005/submission/379077510)
+
 ---
