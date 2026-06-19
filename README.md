@@ -413,3 +413,23 @@ Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)
    Solution: [Link](https://codeforces.com/contest/2237/submission/379391183)
 
 ---
+### Day 19 — 19 June 2026
+
+#### Problems Solved
+
+1. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+   Solution: [Link](https://leetcode.com/submissions/detail/2038708859/)
+
+2. [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)
+   Solution: [Link](https://leetcode.com/submissions/detail/2038940730/)
+
+3. [01 Matrix](https://leetcode.com/problems/01-matrix/)
+   Solution: [Link](https://leetcode.com/submissions/detail/2038769940/)
+
+4. [Count Primes](https://leetcode.com/problems/count-primes/)
+   Solution: [Link](https://leetcode.com/submissions/detail/2038695530/)
+
+5. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+   Solution: [Link](https://leetcode.com/submissions/detail/2038972733/)
+
+---
