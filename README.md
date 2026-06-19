@@ -352,4 +352,64 @@ CodeChef Starters 240 Division 3
 3. [B2. The Strict Teacher (Hard Version)](https://codeforces.com/contest/2005/problem/B2)  
    Solution: [Link](https://codeforces.com/contest/2005/submission/379077510)
 
+
+---
+
+### Day 17 — 17 June 2026
+**Platforms:** LeetCode & CodeChef
+
+#### Learning
+
+- Continued studying Breadth First Search (BFS)
+- Practiced BFS on graph and grid-based problems
+
+#### Reference
+
+- [BFS Tutorial](https://www.youtube.com/watch?v=YnhvY6iFX7I&t=185s)
+
+#### LeetCode Problems Solved
+
+1. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)  
+   Solution: [Link](https://leetcode.com/submissions/detail/2035961148/)
+
+2. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)  
+   Solution: [Link](https://leetcode.com/submissions/detail/2035858015/)
+
+3. [Number of Islands](https://leetcode.com/problems/number-of-islands/)  
+   Solution: [Link](https://leetcode.com/submissions/detail/2035837751/)
+
+#### Contest
+CodeChef Starters 243
+
+#### Problems Solved
+
+1. [Interesting Match](https://www.codechef.com/START243C/problems/INTMTCH)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1290369337)
+
+2. [Lose Less](https://www.codechef.com/START243C/problems/LOSELESS)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1290414011)
+
+3. [Starved for Seating](https://www.codechef.com/START243C/problems/STRSEAT)  
+   Solution: [Link](https://www.codechef.com/viewsolution/1290423097)
+
+---
+
+### Day 18 — 18 June 2026
+**Platform:** Codeforces
+
+#### Contest
+
+Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)
+
+#### Problems Solved
+
+1. [A. Destroying Towers](https://codeforces.com/contest/2237/problem/A)  
+   Solution: [Link](https://codeforces.com/contest/2237/submission/379364904)
+
+2. [B. Annoying the Ghost](https://codeforces.com/contest/2237/problem/B)  
+   Solution: [Link](https://codeforces.com/contest/2237/submission/379389210)
+
+3. [C. Duck Surplus](https://codeforces.com/contest/2237/problem/C)  
+   Solution: [Link](https://codeforces.com/contest/2237/submission/379391183)
+
 ---
