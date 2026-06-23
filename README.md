@@ -433,3 +433,73 @@ Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)
    Solution: [Link](https://leetcode.com/submissions/detail/2038972733/)
 
 ---
+
+
+### Day 20 — 20 June 2026
+
+#### Contest
+
+AtCoder Beginner Contest 463
+
+#### Problems Solved
+
+1. [16:9](https://atcoder.jp/contests/abc463/tasks/abc463_a)
+
+2. [Train Reservation](https://atcoder.jp/contests/abc463/tasks/abc463_b)
+
+3. [Tallest at the Moment](https://atcoder.jp/contests/abc463/tasks/abc463_c)
+
+#### Practice
+
+1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+   Solution: [Link](https://leetcode.com/submissions/detail/2040118886/)
+
+2. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+   Solution: [Link](https://leetcode.com/submissions/detail/2040138137/)
+
+---
+
+### Day 21 — 21 June 2026
+
+#### Practice
+
+1. [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/)
+   Solution: [Link](https://leetcode.com/submissions/detail/2040540351/)
+
+2. [D. GCD-sequence](https://codeforces.com/contest/1980/problem/D)
+   Solution: [Link](https://codeforces.com/contest/1980/submission/379700100)
+
+3. [E. Beautiful Array](https://codeforces.com/contest/2041/problem/E)
+   Solution: [Link](https://codeforces.com/contest/2041/submission/379687688)
+
+4. [B. Bowling Frame](https://codeforces.com/contest/2041/problem/B)
+   Solution: [Link](https://codeforces.com/contest/2041/submission/379681936)
+
+5. [A. The Bento Box Adventure](https://codeforces.com/contest/2041/problem/A)
+   Solution: [Link](https://codeforces.com/contest/2041/submission/379673179)
+
+6. [C1. No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1)
+   Solution: [Link](https://codeforces.com/contest/2154/submission/379671631)
+
+---
+
+### Day 22 — 22 June 2026
+
+#### Problems Solved
+
+1. [B. Two Buttons](https://codeforces.com/contest/520/problem/B)
+   Solution: [Link](https://codeforces.com/contest/520/submission/379808928)
+
+2. [D. Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D)
+   Solution: [Link](https://codeforces.com/contest/1183/submission/379803713)
+
+3. [E. Arranging The Sheep](https://codeforces.com/contest/1520/problem/E)
+   Solution: [Link](https://codeforces.com/contest/1520/submission/379791964)
+
+4. [E. Add Modulo 10](https://codeforces.com/contest/1714/problem/E)
+   Solution: [Link](https://codeforces.com/contest/1714/submission/379776240)
+
+5. [D. Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D)
+   Solution: [Link](https://codeforces.com/contest/1846/submission/379770996)
+
+---
