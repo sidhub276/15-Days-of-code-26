@@ -503,3 +503,21 @@ AtCoder Beginner Contest 463
    Solution: [Link](https://codeforces.com/contest/1846/submission/379770996)
 
 ---
+### Day 23 — 23 June 2026
+
+#### Learning
+
+- Studied Dijkstra's Algorithm
+
+#### Problems Solved
+
+1. [D. Matryoshkas](https://codeforces.com/contest/1790/problem/D)
+   Solution: [Link](https://codeforces.com/contest/1790/submission/379902428)
+
+2. [C. Mocha and Hiking](https://codeforces.com/contest/1559/problem/C)
+   Solution: [Link](https://codeforces.com/contest/1559/submission/379900059)
+
+3. [C. News Distribution](https://codeforces.com/contest/1167/problem/C)
+   Solution: [Link](https://codeforces.com/contest/1167/submission/379862493)
+
+---
