@@ -521,3 +521,41 @@ AtCoder Beginner Contest 463
    Solution: [Link](https://codeforces.com/contest/1167/submission/379862493)
 
 ---
+
+### Day 24 — 24 June 2026
+
+#### Practice
+
+1. [C. Inhabitant of the Deep Sea](https://codeforces.com/contest/1955/problem/C)
+   Solution: [Link](https://codeforces.com/contest/1955/submission/379975058)
+
+2. [C. Ticket Hoarding](https://codeforces.com/contest/1951/problem/C)
+   Solution: [Link](https://codeforces.com/contest/1951/submission/379986048)
+
+3. [E. Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E)
+   Solution: [Link](https://codeforces.com/contest/1950/submission/379991369)
+
+#### Contest
+
+CodeChef Starters 244 (Division 3)
+
+#### Problems Solved
+
+1. [Passing Chain](https://www.codechef.com/problems/PASSCHAIN)
+   Solution: [Link](https://www.codechef.com/viewsolution/1294549439)
+
+2. [Carrot Collection](https://www.codechef.com/problems/CARRCOL)
+   Solution: [Link](https://www.codechef.com/viewsolution/1294559460)
+
+3. [Dividing by 2](https://www.codechef.com/problems/DIV2)
+   Solution: [Link](https://www.codechef.com/viewsolution/1294578987)
+
+4. [AND OR Conversion 1](https://www.codechef.com/problems/ANDOR1)
+   Solution: [Link](https://www.codechef.com/viewsolution/1294665126)
+
+#### Upsolved
+
+1. [AND OR Conversion 2](https://www.codechef.com/problems/ANDOR2)
+   Solution: [Link](https://www.codechef.com/viewsolution/1294771714)
+
+---
