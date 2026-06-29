@@ -559,3 +559,70 @@ CodeChef Starters 244 (Division 3)
    Solution: [Link](https://www.codechef.com/viewsolution/1294771714)
 
 ---
+
+### Day 25 — 26 June 2026
+
+#### Learning
+
+- Studied Disjoint Set Union (DSU)
+
+#### Practice
+
+1. [D. 1709](https://codeforces.com/contest/2121/problem/D)
+   Solution: [Link](https://codeforces.com/contest/2121/submission/380073398)
+
+2. [F. 3SUM](https://codeforces.com/contest/1692/problem/F)
+   Solution: [Link](https://codeforces.com/contest/1692/submission/380193302)
+
+---
+
+### Day 26 — 27 June 2026
+
+#### Practice
+
+1. [C1. Skibidus and Fanum Tax (Easy Version)](https://codeforces.com/contest/2065/problem/C1)
+   Solution: [Link](https://codeforces.com/contest/2065/submission/380302563)
+
+2. [C2. Skibidus and Fanum Tax (Hard Version)](https://codeforces.com/contest/2065/problem/C2)
+   Solution: [Link](https://codeforces.com/contest/2065/submission/380302539)
+
+3. [D. Absolute Sorting](https://codeforces.com/contest/1772/problem/D)
+   Solution: [Link](https://codeforces.com/contest/1772/submission/380253219)
+
+#### Contest
+
+AtCoder Beginner Contest 464
+
+#### Problems Solved
+
+1. [A - Decisive Battle](https://atcoder.jp/contests/abc464/tasks/abc464_a)
+   Solution: [Link](https://atcoder.jp/contests/abc464/submissions/76991525)
+
+2. [B - Crop](https://atcoder.jp/contests/abc464/tasks/abc464_b)
+   Solution: [Link](https://atcoder.jp/contests/abc464/submissions/77001714)
+
+3. [C - Plumage Palette](https://atcoder.jp/contests/abc464/tasks/abc464_c)
+   Solution: [Link](https://atcoder.jp/contests/abc464/submissions/77016796)
+
+---
+
+### Day 27 — 28 June 2026
+
+#### Practice
+
+1. [A. Homework](https://codeforces.com/contest/2132/problem/A)
+   Solution: [Link](https://codeforces.com/contest/2132/submission/380463297)
+
+#### Contest
+
+Codeforces Round 1106 (Div. 2)
+
+#### Problems Solved
+
+1. [A. Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A)
+   Solution: [Link](https://codeforces.com/contest/2238/submission/380470279)
+
+2. [B. Crimson Triples](https://codeforces.com/contest/2238/problem/B)
+   Solution: [Link](https://codeforces.com/contest/2238/submission/380482289)
+
+---
