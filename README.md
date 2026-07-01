@@ -626,3 +626,71 @@ Codeforces Round 1106 (Div. 2)
    Solution: [Link](https://codeforces.com/contest/2238/submission/380482289)
 
 ---
+### Day 28 — 29 June 2026
+
+#### Practice
+
+1. [C1. Renako Amaori and XOR Game (Easy Version)](https://codeforces.com/contest/2171/problem/C1)
+   Solution: [Link](https://codeforces.com/contest/2171/submission/380598617)
+
+2. [C. Disappearing Permutation](https://codeforces.com/contest/2086/problem/C)
+   Solution: [Link](https://codeforces.com/contest/2086/submission/380625857)
+
+3. [E. Interesting Ratio](https://codeforces.com/contest/2091/problem/E)
+   Solution: [Link](https://codeforces.com/contest/2091/submission/380629911)
+
+---
+
+### Day 29 — 30 June 2026
+
+#### Practice
+
+1. [C. Remove the Ends](https://codeforces.com/contest/2064/problem/C)
+   Solution: [Link](https://codeforces.com/contest/2064/submission/380651481)
+
+#### Contest
+
+Codeforces Round 1107 (Div. 3)
+
+#### Problems Solved
+
+1. [A. Divide and Conquer](https://codeforces.com/contest/2241/problem/A)
+   Solution: [Link](https://codeforces.com/contest/2241/submission/380709196)
+
+2. [B. Good Times Good Times](https://codeforces.com/contest/2241/problem/B)
+   Solution: [Link](https://codeforces.com/contest/2241/submission/380755814)
+
+3. [C. RemovevomeR](https://codeforces.com/contest/2241/problem/C)
+   Solution: [Link](https://codeforces.com/contest/2241/submission/380768862)
+
+4. [D. An Alternative Way](https://codeforces.com/contest/2241/problem/D)
+   Solution: [Link](https://codeforces.com/contest/2241/submission/380807767)
+
+---
+
+### Day 30 — 1 July 2026
+
+#### Practice
+
+1. [F. Expected Median](https://codeforces.com/contest/1999/problem/F)
+   Solution: [Link](https://codeforces.com/contest/1999/submission/380870438)
+
+#### Contest
+
+CodeChef Starters 245 (Division 3)
+
+#### Problems Solved
+
+1. [Cooling Conundrum](https://www.codechef.com/problems/COOLCON)
+   Solution: [Link](https://www.codechef.com/viewsolution/1298176358)
+
+2. [Equivalent Exchange](https://www.codechef.com/problems/EQEXCH)
+   Solution: [Link](https://www.codechef.com/viewsolution/1298210959)
+
+3. [Triple Threat](https://www.codechef.com/problems/TRTR3)
+   Solution: [Link](https://www.codechef.com/viewsolution/1298226852)
+
+4. [Not Divisible](https://www.codechef.com/problems/NODV)
+   Solution: [Link](https://www.codechef.com/viewsolution/1298306419)
+
+---
